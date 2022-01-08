@@ -1,0 +1,25 @@
+@media(max-width:656px){
+    a{
+        height: 40px;
+        text-align:center;
+        width:auto;
+       
+    }
+    #fe{
+        margin-top: -630px;
+    }
+    div.container{
+        margin-left: 45px;
+    }
+   
+}
+@media (max-width:477px){
+  div.container{
+     display: flex;
+     flex-direction: column;
+}
+    #fe{
+        margin-top: -1330px;
+        margin-right: 29px;
+}
+}
