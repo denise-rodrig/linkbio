@@ -18,10 +18,9 @@ p{
     padding: 2px;
 }
 #fe{
-    margin-top: -530px;
+    margin-top: 30px;
     text-align: center;
-    position: absolute;
-   border-bottom: none;
+    border-bottom: none;
     
 }
 a{
@@ -45,7 +44,6 @@ a{
     align-content: center;
     justify-content: center;
     
-
 
 }
 div{
